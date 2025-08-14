@@ -1,3 +1,5 @@
+[![MSeeP.ai Security Assessment Badge](https://mseep.net/pr/rom1504-generic-mcp-client-chat-badge.png)](https://mseep.ai/app/rom1504-generic-mcp-client-chat)
+
 # Generic MCP Client Chat
 
 A simple chat client that connects to an MCP (Model Control Protocol) server, allowing you to interact with LLMs and use MCP tools.
